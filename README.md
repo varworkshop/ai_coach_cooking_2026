@@ -1,4 +1,4 @@
-# AI Coach Challenge: Fitness (VAR Workshop @ CVPR 2026)
+# AI Coach Challenge: Cooking (VAR Workshop @ CVPR 2026)
 
 Here we provide the code to load and preprocess the Qualcomm Interactive Cooking benchmark and dataset for the AI Coach Challenge: Cooking at the [VAR Workshop @ CVPR 2026](https://varworkshop.github.io/challenges/). We also provide code to implement a "turn-based" Qwen3-VL baseline and evaluate it's predictions.
 
