@@ -3,7 +3,7 @@
 Here we provide the code to load and preprocess the Qualcomm Interactive Cooking benchmark and dataset for the AI Coach Challenge: Cooking at the [VAR Workshop @ CVPR 2026](https://varworkshop.github.io/challenges/). We also provide code to implement a "turn-based" Qwen3-VL baseline and evaluate it's predictions.
 
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/4af6c675-53d9-4820-91a4-8bbe3281b081" width="80%" controls></video>
+  <video src="https://github.com/user-attachments/assets/7d239b6b-4387-42f7-a3ff-29591e5f37f2" width="80%" controls></video>
 </p>
 
 [**Can Multi-Modal LLMs Provide Live Step-by-Step Task Guidance? (NeurIPS 2025)**](https://arxiv.org/pdf/2511.21998)
